@@ -67,7 +67,7 @@ We found that despite orders being canceled, the company was still making an ave
    git clone https://github.com/Prbn/Supply-Chain-Analysis.git
    ```
    
-3.	Run the analysis notbooks
+3.	Run the analysis notebooks
 
 ## Conclusion
 
